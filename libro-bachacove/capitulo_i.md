@@ -9,14 +9,14 @@ En este capítulo,	se aprenderá como configurar el entorno de desarrollo, donde
 
 Se aprenderá a configurar sistemas Debian o Ubuntu para alojar las instancias del servidor de desarrollo, y como instalar Odoo desde el código fuente en GitHub. Luego aprenderá a configurar archivos compartidos con	Samba, permitiendo trabajar con archivos de Odoo desde una estación de trabajo con cualquier sistema operativo.
 
-Odoo esta desarrollado usando el lenguaje de programación Python y usa PostgreSQL como base de datos para almacenar datos, estos son los requisitos principales para trabajar con Odoo. Para ejecutar Odoo desde el código fuente, es necesario instalar las librerías Python de las cuales depende. Luego el código fuente de Odoo debe descargarse desde GitHub y ejecutado desde el código fuente. Aunque es posible descargar un zip o tarball, es mejor obtener el código fuente usando GitHub,	así además tendremos Odoo instalado en nuestro equipo.
+Odoo está desarrollado usando el lenguaje de programación Python y usa PostgreSQL como para almacenar sus datos. Para ejecutar Odoo desde el código fuente, es necesario instalar las librerías Python de las cuales depende. Luego el código fuente de Odoo debe descargarse desde GitHub y ejecutarlo desde el código fuente. Aunque es posible descargar un zip o tarball, es mejor obtener el código fuente usando GitHub,	así además tendremos la ultima versión de Odoo instalada en nuestro equipo.
 
 
 **Configurar un equipo como servidor Odoo**
 
-Preferimos usar sistemas Debian/Ubuntu para el servidor Odoo, aunque puede trabajar desde el sistema operativo de su preferencia, sea Windows,	Macintosh, o Linux.
+Rcomendamos la utilización de sistemas Debian/Ubuntu para el servidor Odoo, aunque puede trabajar desde el sistema operativo de su preferencia, sea Windows,	Macintosh, u otros sabores de Linux.
 
-Odoo puede ser ejecutado en una gran variedad de sistemas operativos, entonces porque elegir Debian por encima de otros sistemas operativos? Debido a que Odoo es desarrollado pensado principalmente para sistemas Debian/Ubuntu, tienen mejor soporte para Odoo. Por lo tanto será más fácil encontrar ayuda y recursos adicionales si se trabaja con Debian/Ubuntu.
+Odoo puede ser ejecutado en una gran variedad de sistemas operativos, entonces ¿Por que elegir Debian por encima de otros sistemas operativos? Debido a que Odoo está desarrollado pensado principalmente para sistemas Debian/Ubuntu, tienen mejor soporte para Odoo. Por lo tanto será más fácil encontrar ayuda y recursos adicionales si se trabaja con Debian/Ubuntu.
 
 También son las plataformas más usadas por las personas que desarrollan aplicaciones, y donde se dan a conocer más implementaciones. Por lo tanto, inevitablemente, se espera que las desarrolladoras y los desarrolladores de Odoo se sientan a gusto con esta plataforma. Incluso quienes tiene una historial de trabajo con Windows, es importante que tengan algún conocimiento sobre estas plataformas.
 

@@ -3,7 +3,7 @@ Capítulo 1.	Comenzando con Odoo
 
 **Desarrollo**
 
-Antes de sumergirse en el desarrollo de Odoo, es necesario configurar el entorno de desarrollo, y para esto se debe aprender las tareas básicas de administración.
+Antes de sumergirse en el desarrollo de Odoo, es necesario configurar el entorno de desarrollo, y para esto se deben aprender las tareas básicas de administración.
 
 En este capítulo,	se aprenderá como configurar el entorno de desarrollo, donde luego se desarrollarán las aplicaciones Odoo. 
 
